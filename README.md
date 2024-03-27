@@ -1,6 +1,7 @@
 # Getting started
 
 Clone this repo, install flask and run the flask_app.py
+you will also need to change your openai key in flask_app.py
 
 ```
 pip install Flask
