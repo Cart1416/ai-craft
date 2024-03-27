@@ -1,0 +1,43 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720">
+	<title>coffee-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #000000 } 
+		.s2 { fill: #050505 } 
+	</style>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<g id="Page-1">
+				<g id="_2.1">
+					<g id="Group">
+						<g id="Logo">
+							<g id="Fill-3">
+								<path id="Layer" class="s0" d="m1081 868.9h463.1v51.7h-463.1z"/>
+							</g>
+							<g id="Stroke-4">
+								<path id="Layer" fill-rule="evenodd" class="s1" d="m1446.2 470.6h-487.2v-75.7h487.2zm-463.2-24h439.1v-27.6h-439.1z"/>
+							</g>
+							<g id="Fill-6">
+								<path id="Layer" class="s0" d="m1344.4 323h-286.9l-33.6 77.5h354.2z"/>
+							</g>
+							<g id="Group-11">
+								<g id="Stroke-7">
+									<path id="Layer" fill-rule="evenodd" class="s2" d="m1396.4 412.5h-390.8l44.1-101.5h302.6zm-354.2-24h317.5l-23.2-53.5h-271.1z"/>
+								</g>
+								<g id="Stroke-9">
+									<path id="Layer" fill-rule="evenodd" class="s1" d="m1335.5 1030.5h-267.4l-91.9-584 225.6 1.2 225.6-1.2zm-246.8-24h226.2l84.4-535.8-197.5 1-197.4-1z"/>
+								</g>
+							</g>
+							<g id="Fill-12">
+								<path id="Layer" class="s0" d="m1419.7 616.7h-437.5l39.5 222.7 179.3-2 179.2 2z"/>
+							</g>
+							<g id="Stroke-13">
+								<path id="Layer" fill-rule="evenodd" class="s1" d="m1390.3 851.5l-189.5-2-189.1 2-43.8-246.8h466.2zm-189.5-26.1l169.4 1.8 35.2-198.5h-408.9l35.3 198.5z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

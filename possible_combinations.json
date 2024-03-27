@@ -1,0 +1,290 @@
+[
+    {
+        "pair": [
+            "Earth",
+            "Water"
+        ],
+        "result": "Plant",
+        "emoji": "🌱"
+    },
+    {
+        "pair": [
+            "Fire",
+            "Water"
+        ],
+        "result": "Steam",
+        "emoji": "💨"
+    },
+    {
+        "pair": [
+            "Plant",
+            "Water"
+        ],
+        "result": "Bigger Plant",
+        "emoji": "🌱🌱"
+    },
+    {
+        "pair": [
+            "Bigger Plant",
+            "Fire"
+        ],
+        "result": "Burning Plant",
+        "emoji": "🔥"
+    },
+    {
+        "pair": [
+            "Burning Plant",
+            "Water"
+        ],
+        "result": "Steam",
+        "emoji": "💨"
+    },
+    {
+        "pair": [
+            "Fire",
+            "Steam"
+        ],
+        "result": "Mist",
+        "emoji": "🌫️"
+    },
+    {
+        "pair": [
+            "Earth",
+            "Mist"
+        ],
+        "result": "Fog",
+        "emoji": "🌫️"
+    },
+    {
+        "pair": [
+            "Fog",
+            "Fog"
+        ],
+        "result": "Cloud",
+        "emoji": "☁️"
+    },
+    {
+        "pair": [
+            "Cloud",
+            "Cloud"
+        ],
+        "result": "Storm",
+        "emoji": "☁️"
+    },
+    {
+        "pair": [
+            "Storm",
+            "Storm"
+        ],
+        "result": "Hurricane",
+        "emoji": "🌀"
+    },
+    {
+        "pair": [
+            "Burning Plant",
+            "Hurricane"
+        ],
+        "result": "Wildfire",
+        "emoji": "🔥"
+    },
+    {
+        "pair": [
+            "Wildfire",
+            "Wildfire"
+        ],
+        "result": "Inferno",
+        "emoji": "🔥"
+    },
+    {
+        "pair": [
+            "Inferno",
+            "Water"
+        ],
+        "result": "Steam",
+        "emoji": "💨"
+    },
+    {
+        "pair": [
+            "Earth",
+            "Steam"
+        ],
+        "result": "Volcano",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Plant",
+            "Volcano"
+        ],
+        "result": "Tropical Island",
+        "emoji": "🌴"
+    },
+    {
+        "pair": [
+            "Fire",
+            "Tropical Island"
+        ],
+        "result": "Volcano",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Earth",
+            "Volcano"
+        ],
+        "result": "Island",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Island",
+            "Volcano"
+        ],
+        "result": "Volcanic Island",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Volcano",
+            "Volcano"
+        ],
+        "result": "Super Volcano",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Super Volcano",
+            "Volcanic Island"
+        ],
+        "result": "Mega Volcano Island",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Mega Volcano Island",
+            "Super Volcano"
+        ],
+        "result": "Ultra Volcano Island",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Mega Volcano Island",
+            "Ultra Volcano Island"
+        ],
+        "result": "Ultimate Volcano Island",
+        "emoji": "🌋"
+    },
+    {
+        "pair": [
+            "Hurricane",
+            "Ultimate Volcano Island"
+        ],
+        "result": "Cataclysmic Storm Island",
+        "emoji": "🌋💨"
+    },
+    {
+        "pair": [
+            "Water",
+            "Wind"
+        ],
+        "result": "Wave",
+        "emoji": "🌊"
+    },
+    {
+        "pair": [
+            "Wave",
+            "Wave"
+        ],
+        "result": "Tsunami",
+        "emoji": "🌊"
+    },
+    {
+        "pair": [
+            "Fire",
+            "Wind"
+        ],
+        "result": "Firestorm",
+        "emoji": "🔥💨"
+    },
+    {
+        "pair": [
+            "Firestorm",
+            "Water"
+        ],
+        "result": "Steam",
+        "emoji": "💨"
+    },
+    {
+        "pair": [
+            "Fog",
+            "Plant"
+        ],
+        "result": "Dew",
+        "emoji": "🌾"
+    },
+    {
+        "pair": [
+            "Dew",
+            "Tsunami"
+        ],
+        "result": "Flood",
+        "emoji": "🌊"
+    },
+    {
+        "pair": [
+            "Plant",
+            "Plant"
+        ],
+        "result": "Forest",
+        "emoji": "🌳"
+    },
+    {
+        "pair": [
+            "Fire",
+            "Forest"
+        ],
+        "result": "Wildfire",
+        "emoji": "🔥"
+    },
+    {
+        "pair": [
+            "Tsunami",
+            "Wildfire"
+        ],
+        "result": "Steam Cloud",
+        "emoji": "🌊🔥"
+    },
+    {
+        "pair": [
+            "Flood",
+            "Steam Cloud"
+        ],
+        "result": "Mist",
+        "emoji": "☁️"
+    },
+    {
+        "pair": [
+            "Cataclysmic Storm Island",
+            "Mist"
+        ],
+        "result": "Mystic Fog Island",
+        "emoji": "🌫️"
+    },
+    {
+        "pair": [
+            "Mystic Fog Island",
+            "Tsunami"
+        ],
+        "result": "Flooded Mystic Island",
+        "emoji": "🌊"
+    },
+    {
+        "pair": [
+            "Flooded Mystic Island",
+            "Steam"
+        ],
+        "result": "Misty Island",
+        "emoji": "🌫️"
+    }
+]
