@@ -1,3 +1,7 @@
+# What is this?
+
+AI craft is a version of infinite craft but powered by chatGPT
+
 # Getting started
 
 Clone this repo, install flask and openai 0.28 then run the flask_app.py
