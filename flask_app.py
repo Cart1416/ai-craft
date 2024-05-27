@@ -7,6 +7,9 @@ import json
 import hashlib
 import openai
 
+if OPENAI_API_KEY == "OPENAI_KEY_HERE":
+    print("please set the OPENAI_API_KEY variable in flask_app.py")
+
 app = Flask(__name__)
 openai.api_key = OPENAI_API_KEY
 
